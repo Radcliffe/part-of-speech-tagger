@@ -1,6 +1,8 @@
 """
+Downloads the averaged_perceptron_tagger package.
+This script is a workaround to prevent SSL errors.
 
-
+Source: https://github.com/gunthercox/ChatterBot/issues/930#issuecomment-322111087
 """
 
 package = 'averaged_perceptron_tagger'

@@ -29,4 +29,8 @@ Launch the server.
 
      $ hug -f web/tagger.py
 
+Run the test. If you see "Test passed." then the application is working properly.
+
+     $ python tests/post_test.py
+
 
