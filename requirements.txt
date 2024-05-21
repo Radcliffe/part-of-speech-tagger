@@ -4,7 +4,7 @@ falcon==2.0.0
 hug==2.6.0
 idna==2.8
 nltk==3.6.6
-requests==2.31.0
+requests==2.32.0
 six==1.13.0
 urllib3==1.26.18
 wheel==0.38.1
