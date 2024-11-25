@@ -3,7 +3,7 @@ chardet==3.0.4
 falcon==2.0.0
 hug==2.6.0
 idna==3.7
-nltk==3.6.6
+nltk==3.9
 requests==2.32.0
 six==1.13.0
 urllib3==1.26.19
